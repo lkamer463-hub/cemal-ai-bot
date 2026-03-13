@@ -1,5 +1,4 @@
 python-telegram-bot
 requests
 feedparser
-sentence-transformers
 scikit-learn
